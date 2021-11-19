@@ -4,7 +4,7 @@ A [Homebrew](https://brew.sh) tap for tools created by [@bradleycwojcik](https:/
 
 ## Available Formulae
 
-- [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) (coming soon) - play euchre in your terminal
+- [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) - play euchre in your terminal
 - [elo-cli](https://github.com/bradleycwojcik/elo-cli) (coming soon) - calculate elo ratings in your terminal
 - [makey-cli](https://github.com/bradleycwojcik/makey-cli) (coming soon) - make passkeys in your terminal
 
@@ -45,6 +45,10 @@ Remove tap:
 ```zsh
 brew untap bradleycwojcik/homebrew-tap
 ```
+
+## Homebrew Help
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
 ## License
 
