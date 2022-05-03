@@ -4,9 +4,12 @@ A [Homebrew](https://brew.sh) tap for tools created by [@bradleycwojcik](https:/
 
 ## Available Formulae
 
+- [makey-cli](https://github.com/bradleycwojcik/makey-cli) - make passkeys in your terminal
+
+### Coming soon
+
 - [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) - play euchre in your terminal
-- [elo-cli](https://github.com/bradleycwojcik/elo-cli) (coming soon) - calculate elo ratings in your terminal
-- [makey-cli](https://github.com/bradleycwojcik/makey-cli) (coming soon) - make passkeys in your terminal
+- [elo-cli](https://github.com/bradleycwojcik/elo-cli) - calculate elo ratings in your terminal
 
 ## Usage
 
