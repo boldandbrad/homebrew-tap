@@ -4,11 +4,11 @@ A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://gi
 
 ## Available Formulae
 
+- [euchre-cli](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
 - [makey-cli](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
 
 ### Coming soon
 
-- [euchre-cli](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
 - [elo-cli](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
 
 ## Usage
