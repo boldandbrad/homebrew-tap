@@ -1,15 +1,15 @@
-# homebrew-tap for bradleycwojcik
+# homebrew-tap for boldandbrad
 
-A [Homebrew](https://brew.sh) tap for tools created by [@bradleycwojcik](https://github.com/bradleycwojcik).
+A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://github.com/boldandbrad).
 
 ## Available Formulae
 
-- [makey-cli](https://github.com/bradleycwojcik/makey-cli) - make passkeys in your terminal
+- [makey-cli](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
 
 ### Coming soon
 
-- [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) - play euchre in your terminal
-- [elo-cli](https://github.com/bradleycwojcik/elo-cli) - calculate elo ratings in your terminal
+- [euchre-cli](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
+- [elo-cli](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
 
 ## Usage
 
@@ -18,7 +18,7 @@ A [Homebrew](https://brew.sh) tap for tools created by [@bradleycwojcik](https:/
 Add tap to homebrew:
 
 ```zsh
-brew tap bradleycwojcik/homebrew-tap
+brew tap boldandbrad/homebrew-tap
 ```
 
 Install software:
@@ -46,7 +46,7 @@ brew uninstall <formula>
 Remove tap:
 
 ```zsh
-brew untap bradleycwojcik/homebrew-tap
+brew untap boldandbrad/homebrew-tap
 ```
 
 ## Homebrew Help
@@ -55,4 +55,4 @@ brew untap bradleycwojcik/homebrew-tap
 
 ## License
 
-Copyright (c) 2021 Bradley Wojcik. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2022 Bradley Wojcik. Released under the MIT License. See [LICENSE](LICENSE) for details.
