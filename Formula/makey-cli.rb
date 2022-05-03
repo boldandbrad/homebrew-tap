@@ -3,8 +3,8 @@ class MakeyCli < Formula
 
   desc "CLI passkey maker."
   homepage "https://boldandbrad.github.io/makey-cli/"
-  url "https://files.pythonhosted.org/packages/c5/05/3e497a20207b6140d2478aa8a09f732e20b9a25e3df135fbac786508bcfe/makey-cli-1.1.0.tar.gz"
-  sha256 "2d79c5b496be5555f688ebf6096d34a37bb4bc2aef0cbb9517adc119de89bd65"
+  url "https://files.pythonhosted.org/packages/bb/7b/92a45351dbe4801558f9e80f6ce7613a098e6cccb119b21f36448b9def45/makey-cli-1.2.0.tar.gz"
+  sha256 "08b2104d28a9e28d4326b9d93b155c4409193f94a48d18044adc4084cbfab589"
   license "MIT"
 
   depends_on "python@3.8"
