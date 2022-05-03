@@ -1,7 +1,7 @@
 class MakeyCli < Formula
   include Language::Python::Virtualenv
 
-  desc "CLI passkey maker."
+  desc "CLI passkey maker"
   homepage "https://boldandbrad.github.io/makey-cli/"
   url "https://files.pythonhosted.org/packages/bb/7b/92a45351dbe4801558f9e80f6ce7613a098e6cccb119b21f36448b9def45/makey-cli-1.2.0.tar.gz"
   sha256 "08b2104d28a9e28d4326b9d93b155c4409193f94a48d18044adc4084cbfab589"

@@ -1,7 +1,7 @@
 class EuchreCli < Formula
   include Language::Python::Virtualenv
 
-  desc "Play euchre in your terminal."
+  desc "Play euchre in your terminal"
   homepage "https://boldandbrad.github.io/euchre-cli/"
   url "https://files.pythonhosted.org/packages/c5/52/29e9dd078725c18dfe72327df236915e3c984b54e88eeec30fa6cdbe3a3e/euchre-cli-0.6.1.tar.gz"
   sha256 "09c863028214ae157a5a6f8cff29283550da22ec909a3dd171d86f4e94bdc206"
