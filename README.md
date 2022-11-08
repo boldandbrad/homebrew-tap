@@ -9,6 +9,7 @@ A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://gi
 
 ### Coming soon
 
+- [bgg-cli](https://github.com/boldandbrad/bgg-cli) - interface with boardgamegeek and manage local collections from your terminal
 - [elo-cli](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
 
 ## Usage
