@@ -7,7 +7,7 @@ class MakeyCli < Formula
   sha256 "83bb33fb3a5393b695634e52a8d757267fd52165ff75818b93d2d8a0072be9d7"
   license "MIT"
 
-  depends_on "python@3.8"
+  depends_on "python3"
 
   resource "click" do
     url "https://files.pythonhosted.org/packages/59/87/84326af34517fca8c58418d148f2403df25303e02736832403587318e9e8/click-8.1.3.tar.gz"
@@ -20,6 +20,7 @@ class MakeyCli < Formula
   end
 
   def install
+    virtualenv_create(libexec, "python3")
     virtualenv_install_with_resources
   end
 
