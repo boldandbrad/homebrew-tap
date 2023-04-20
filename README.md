@@ -1,28 +1,30 @@
-# homebrew-tap for boldandbrad
+# boldandbrad/homebrew-tap
 
 A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://github.com/boldandbrad).
 
 ## Available Formulae
 
-- [euchre-cli](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
-- [makey-cli](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
+- [`euchre-cli`](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
+- [`makey-cli`](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
+- [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) (beta) - manage board game collections in your terminal
 
 ### Coming soon
 
-- [meeple-cli](https://github.com/boldandbrad/meeple-cli) - interface with boardgamegeek and manage local boardgame collections from your terminal
-- [elo-cli](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
+- [`elo-cli`](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
 
 ## Usage
 
+> In order to use this tap, [Homebrew](https://brew.sh) must be installed (macOS or Linux).
+
 ### Install
 
-Add tap to homebrew:
+Tap this repo:
 
 ```zsh
-brew tap boldandbrad/homebrew-tap
+brew tap boldandbrad/tap
 ```
 
-Install software:
+Install a formula:
 
 ```zsh
 brew install <formula>
@@ -38,16 +40,16 @@ brew update && brew upgrade <formula>
 
 ### Uninstall
 
-Uninstall formula:
+Uninstall a formula:
 
 ```zsh
 brew uninstall <formula>
 ```
 
-Remove tap:
+Untap this repo:
 
 ```zsh
-brew untap boldandbrad/homebrew-tap
+brew untap boldandbrad/tap
 ```
 
 ## Homebrew Help
