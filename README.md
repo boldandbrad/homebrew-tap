@@ -6,7 +6,7 @@ A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://gi
 
 - [`euchre-cli`](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
 - [`makey-cli`](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
-- [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) (beta) - manage board game collections in your terminal
+- [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) - manage board game collections in your terminal
 
 ### Coming soon
 
