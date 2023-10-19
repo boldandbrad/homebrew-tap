@@ -3,8 +3,8 @@ class MeepleCli < Formula
 
   desc "Local board game collection manager. Powered by BoardGameGeek"
   homepage "https://github.com/boldandbrad/meeple-cli"
-  url "https://files.pythonhosted.org/packages/08/5b/31c1e36ea6f79ef1b357735643ef957cf3c05869e284692812eb43681208/meeple_cli-1.0.1.tar.gz"
-  sha256 "0438c16f67fac769efbf89c701e203a65f34e688301892da550fef47bdc2a9d2"
+  url "https://files.pythonhosted.org/packages/46/ba/910f94c80bdc4df5f44379e1ba9771ad9169c6fa0ac08f1b2013d5629c44/meeple_cli-1.1.0.tar.gz"
+  sha256 "063d054d4e2ef9b58756bfed1bd26b2e46680ca7a56db01b683bf6af7bc42029"
   license "MIT"
 
   depends_on "python3"
