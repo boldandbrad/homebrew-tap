@@ -1,20 +1,26 @@
 # boldandbrad/homebrew-tap
 
-A [Homebrew](https://brew.sh) tap for tools created by [@boldandbrad](https://github.com/boldandbrad).
+A [Homebrew](https://brew.sh) tap for tools created by
+[@boldandbrad](https://github.com/boldandbrad).
 
-## Available Formulae
+## 🍻 Available Formulae
 
-- [`euchre-cli`](https://github.com/boldandbrad/euchre-cli) - play euchre in your terminal
-- [`makey-cli`](https://github.com/boldandbrad/makey-cli) - make passkeys in your terminal
-- [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) - manage board game collections in your terminal
+- [`euchre-cli`](https://github.com/boldandbrad/euchre-cli) - play euchre in
+  your terminal
+- [`makey-cli`](https://github.com/boldandbrad/makey-cli) - make passkeys in
+  your terminal
+- [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) - manage board game
+  collections in your terminal
 
 ### Coming soon
 
-- [`elo-cli`](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in your terminal
+- [`elo-cli`](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in
+  your terminal
 
-## Usage
+## 🚀 Usage
 
-> In order to use this tap, [Homebrew](https://brew.sh) must be installed (macOS or Linux).
+> In order to use this tap, [Homebrew](https://brew.sh) must be installed (macOS
+> or Linux).
 
 ### Install
 
@@ -52,10 +58,11 @@ Untap this repo:
 brew untap boldandbrad/tap
 ```
 
-## Homebrew Help
+## 🫗 Homebrew Help
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
-## License
+## ⚖️ License
 
-Copyright (c) 2022 Bradley Wojcik. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2022 Bradley Wojcik. Released under the MIT License. See
+[LICENSE](LICENSE) for details.
