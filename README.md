@@ -11,11 +11,7 @@ A [Homebrew](https://brew.sh) tap for tools created by
   your terminal
 - [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) - manage board game
   collections in your terminal
-
-### Coming soon
-
-- [`elo-cli`](https://github.com/boldandbrad/elo-cli) - calculate elo ratings in
-  your terminal
+- 🌀 [`slinky`](https://github.com/boldandbrad/slinky) - simple symlink-based dotfile manager
 
 ## 🚀 Usage
 
