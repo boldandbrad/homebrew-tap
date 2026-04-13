@@ -11,7 +11,10 @@ A [Homebrew](https://brew.sh) tap for tools created by
   your terminal
 - [`meeple-cli`](https://github.com/boldandbrad/meeple-cli) - manage board game
   collections in your terminal
-- 🌀 [`slinky`](https://github.com/boldandbrad/slinky) - simple symlink-based dotfile manager
+- 🌀 [`slinky`](https://github.com/boldandbrad/slinky) - simple symlink-based
+  dotfile manager
+- 📀 [`spin`](https://github.com/boldandbrad/spin) - a command line last.fm
+  scrobbler for techies
 
 ## 🚀 Usage
 
